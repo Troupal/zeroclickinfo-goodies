@@ -11,3 +11,7 @@ This repository contains all the Goodie instant answers. If you are developing a
 ### Goodie Instant Answer Example
 
 ![Unit Conversion Example](https://raw.githubusercontent.com/duckduckgo/duckduckgo-documentation/master/duckduckhack/assets/goodie_readme_example.png)
+
+## I have fork this project because I would like to try to translate this *DuckDuckHack App* in french ##
+
+#### I'm not a real good programmer but I want to perfect me and try to make something for us, for the community! #####
